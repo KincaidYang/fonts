@@ -1,0 +1,21 @@
+body {
+  -webkit-font-smoothing: antialiased;
+}
+@font-face {
+  font-family: 'HarmonyOSSans-Regular';
+  font-display: swap;
+  font-style: normal;
+  src: url('/HarmonyOS_Sans_SC_Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'HarmonyOS_Sans_Regular';
+  font-display: swap;
+  font-style: normal;
+  src: url('/HarmonyOS_Sans_Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'CascadiaCodePL';
+  font-display: swap;
+  font-style: normal;
+  src: url('/CascadiaCodePL.woff2') format('woff2');
+}
