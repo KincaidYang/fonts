@@ -5,17 +5,17 @@ body {
   font-family: 'HarmonyOSSans-Regular';
   font-display: swap;
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/KincaidYang/fonts@main/HarmonyOS_Sans_SC_Regular.woff2') format('woff2');
+  src: url('/HarmonyOS_Sans_SC_Regular.woff2') format('woff2');
 }
 @font-face {
   font-family: 'HarmonyOS_Sans_Regular';
   font-display: swap;
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/KincaidYang/fonts@main/HarmonyOS_Sans_Regular.woff2') format('woff2');
+  src: url('/HarmonyOS_Sans_Regular.woff2') format('woff2');
 }
 @font-face {
   font-family: 'CascadiaCodePL';
   font-display: swap;
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/KincaidYang/fonts@main/CascadiaCodePL.woff2') format('woff2');
+  src: url('/CascadiaCodePL.woff2') format('woff2');
 }
