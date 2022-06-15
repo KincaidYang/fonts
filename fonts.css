@@ -19,3 +19,9 @@ body {
   font-style: normal;
   src: url('/CascadiaCodePL.woff2') format('woff2');
 }
+@font-face {
+  font-family: 'HarmonyOSSans-TC-Regular';
+  font-display: swap;
+  font-style: normal;
+  src: url('/HarmonyOS_Sans_TC_Regular.woff2') format('woff2');
+}
